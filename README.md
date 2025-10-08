@@ -20,6 +20,7 @@ Un cliente de línea de comandos en Node.js para interactuar con la API de FakeS
 
 ```bash
 # Clonar el proyecto
+git clone https://github.com/MatiGiraudo/pre-entrega.git
 cd pre-entrega
 
 # Instalar dependencias (si las hay)
